@@ -1,12 +1,12 @@
   body{
 	  
 	 background-color:white;
-	 background-image: url('image.JPG');
+	 background-image: url('image.jpg');
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
 .hero-image {
- background-image: url('poojasri.JPEG');
+ background-image: url('poojasri.jpeg');
   display: block;
   margin-left: auto;
   margin-right: auto;
